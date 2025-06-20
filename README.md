@@ -34,3 +34,5 @@ To ensure that the audio plays at the correct time and does not overlap with oth
 This simple example demonstrates how to integrate your Voiceflow assistant with the Dialog API in a webpage chat assistant.
 
 Happy building!
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=voiceflow-community_webpage-chat-demo&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=voiceflow-community_webpage-chat-demo)
